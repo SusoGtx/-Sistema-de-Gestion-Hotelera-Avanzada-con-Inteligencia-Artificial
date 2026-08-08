@@ -1,1 +1,1 @@
-# -Sistema-de-Gestion-Hotelera-Avanzada-con-Inteligencia-Artificial
+# Sistema-de-Gestion-Hotelera-Avanzada-con-Inteligencia-Artificial
